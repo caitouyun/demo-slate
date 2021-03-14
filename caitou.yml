@@ -1,0 +1,3 @@
+site: demoslate
+public: build
+force_ssl: true
